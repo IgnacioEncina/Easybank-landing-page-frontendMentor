@@ -378,6 +378,7 @@ main .section3-content-articles-item-text-cuerpo {
   height: 191px;
   display: flex;
   background-color: hsl(233deg, 26%, 24%);
+  flex-direction: column;
   color: hsl(0deg, 0%, 100%);
 }
 .footer-contain {
